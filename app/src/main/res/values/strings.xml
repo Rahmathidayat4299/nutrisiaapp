@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nutrition Detection</string>
+
+    <string-array name="diet">
+        <item>Ya</item>
+        <item>Tidak</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>
